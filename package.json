@@ -1,5 +1,6 @@
 {
   "name": "ideal-disco",
+  // Update: commit 27
   "version": "0.1.0",
   "description": "A ideal disco project",
   "main": "index.js",
