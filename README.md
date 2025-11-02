@@ -5,6 +5,7 @@ A ideal disco project
 ## Installation
 
 \`\`\`bash
+  // Update: commit 3
 npm install
 \`\`\`
 
